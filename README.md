@@ -1,5 +1,4 @@
 # Google-Search
-# by = efy.oliveira
 
 Script desenvolvido com o objetivo de otimizar pesquisas por meio de um terminal linux.
 
